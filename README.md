@@ -1,2 +1,2 @@
 # csharp-exercises
-C# exercices to be done in the internships. 
+C# exercises to be done in the internships. 
