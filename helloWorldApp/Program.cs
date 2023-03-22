@@ -13,5 +13,3 @@ namespace app
     }
 
 }
-
-// show current date in C#?
