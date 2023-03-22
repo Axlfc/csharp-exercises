@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P84eNl3LVhtGEkHEfNAnMxZ1kI9vXXQf9QeEb3j610Ss0NKTMDMNYr6ppj6nMqdYRylRNn73/R99w+VV+cmPQQ==",
+  "dgSpecHash": "l/ogwF7k8mai3x/Uc9N902HZ557LP/Hbb71H21djFgLBvIKc6F8yOFV10smaeH+/zkwExhdMWyFC9MryQzFUUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AxelFC\\source\\repos\\csharp-exercises\\app\\app.csproj",
+  "projectFilePath": "/home/axel/Desktop/csharp-exercises/app/app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
