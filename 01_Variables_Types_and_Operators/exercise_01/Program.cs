@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace app
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace VariablesTypesAndOperators {
+    class Program {
+        static void Main(string[] args) {
             // Write a program that receives data from a person and generates a message, use a variable for each data and another for the message. 
             // Eg: number, last name, age, knows how to program, etc.
 
@@ -29,8 +26,6 @@ namespace app
             Console.Write("Hello, " + name + " " + last_name);
             Console.Write(". You are " + age + " years old");
             Console.Write(". You live in " + place + ".");
-
         }
     }
-
 }

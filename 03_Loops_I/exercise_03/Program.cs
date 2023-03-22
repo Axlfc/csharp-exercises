@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace app {
+namespace Loops {
     class Program {
         static void DrawSquare(int side, char character) {
             for (int i = 0; i < side; i++) {
@@ -37,8 +37,7 @@ namespace app {
         }
 
 
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
             // Write a program that performs these steps:
 
             // Receive 3 data:

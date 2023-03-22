@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace app {
+namespace DataStructures {
     class Program {
         public struct Customer {
             public string FullName;
@@ -41,5 +41,4 @@ namespace app {
             customer.Render();
         }
     }
-
 }

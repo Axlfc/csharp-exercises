@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace app {
+namespace Loops {
     class Program {
         static void Main(string[] args) {
             // Write a program that:

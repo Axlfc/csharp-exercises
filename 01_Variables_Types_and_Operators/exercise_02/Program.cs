@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace app
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace VariablesTypesAndOperators {
+    class Program {
+        static void Main(string[] args) {
             // Types Using the most suitable types of variables, describe the following objects:
             // - Car: doors, wheels, brand, valid ITV
             // - Table: weight, length, material, color
@@ -23,5 +20,4 @@ namespace app
             string color = "color";
         }
     }
-
 }

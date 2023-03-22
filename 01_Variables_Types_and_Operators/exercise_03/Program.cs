@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace app
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace VariablesTypesAndOperators {
+    class Program {
+        static void Main(string[] args) {
             // Operators Determines the operators to check for the following conditions:
             // - A number is greater than or equal to 18
             // - A char is 'a'
@@ -37,8 +34,6 @@ namespace app
             Console.WriteLine("A char is 'a' = " + condition_2);
             Console.WriteLine("Two conditions are fulfilled at the same time (both true) = " + condition_3);
             Console.WriteLine("One of two conditions is true at the same time (one true and one false) = " + condition_4);
-
         }
     }
-
 }

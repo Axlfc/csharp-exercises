@@ -1,11 +1,8 @@
 ﻿using System;
 
-namespace app
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+namespace Loops {
+    class Program {
+        static void Main(string[] args) {
             int positiveCount = 0;
             int negativeCount = 0;
             int zeroCount = 0;
@@ -13,27 +10,22 @@ namespace app
             Console.WriteLine("Enter one or more numbers, one per line:");
             Console.WriteLine("(Enter an empty line to stop)");
 
-            while (true)
-            {
+            while (true) {
                 string input = Console.ReadLine() ?? "";
 
-                if (string.IsNullOrEmpty(input))
-                {
+                if (string.IsNullOrEmpty(input)) {
                     break;
                 }
 
                 int number = int.Parse(input);
 
-                if (number > 0)
-                {
+                if (number > 0) {
                     positiveCount++;
                 }
-                else if (number < 0)
-                {
+                else if (number < 0) {
                     negativeCount++;
                 }
-                else if (number == 0)
-                {
+                else if (number == 0) {
                     zeroCount++;
                 }
             }
