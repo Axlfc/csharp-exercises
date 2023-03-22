@@ -22,10 +22,14 @@ namespace app
             string age = Console.ReadLine();
 
             // Ask the user if they know how to program
-            Console.WriteLine("Do you know how to program?");
-            string know_to_program = Console.ReadLine();
+            Console.WriteLine("Where do you live?");
+            string place = Console.ReadLine();
 
             // Show messages
+            Console.Write("Hello, " + name + " " + last_name);
+            Console.Write(". You are " + age + " years old");
+            Console.Write(". You live in " + place + ".");
+
         }
     }
 
