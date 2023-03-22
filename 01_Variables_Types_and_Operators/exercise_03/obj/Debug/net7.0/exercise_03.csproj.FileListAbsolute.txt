@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/bin/Debug/net7.0/exercise_03
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/bin/Debug/net7.0/exercise_03.deps.json
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/bin/Debug/net7.0/exercise_03.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/bin/Debug/net7.0/exercise_03.dll
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/bin/Debug/net7.0/exercise_03.pdb
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.dll
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/refint/exercise_03.dll
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.pdb
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/exercise_03.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_03/obj/Debug/net7.0/ref/exercise_03.dll

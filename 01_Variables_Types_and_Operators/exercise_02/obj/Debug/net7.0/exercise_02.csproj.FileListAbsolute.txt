@@ -1,0 +1,5 @@
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_02/obj/Debug/net7.0/exercise_02.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_02/obj/Debug/net7.0/exercise_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_02/obj/Debug/net7.0/exercise_02.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_02/obj/Debug/net7.0/exercise_02.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/01_Variables_Types_and_Operators/exercise_02/obj/Debug/net7.0/exercise_02.csproj.CoreCompileInputs.cache
