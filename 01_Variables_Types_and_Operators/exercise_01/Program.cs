@@ -17,9 +17,9 @@ namespace app
             Console.WriteLine("Write your last name:");
             string last_name = Console.ReadLine();
 
-            // Ask the user for their name
+            // Ask the user for their age
             Console.WriteLine("Write your age:");
-            string age = Console.ReadLine();
+            int age = Convert.ToInt32(Console.ReadLine());
 
             // Ask the user if they know how to program
             Console.WriteLine("Where do you live?");
