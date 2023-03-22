@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/bin/Debug/net7.0/exercise_02
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/bin/Debug/net7.0/exercise_02.deps.json
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/bin/Debug/net7.0/exercise_02.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/bin/Debug/net7.0/exercise_02.dll
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/bin/Debug/net7.0/exercise_02.pdb
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.dll
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/refint/exercise_02.dll
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.pdb
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/exercise_02.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/03_Loops_I/exercise_02/obj/Debug/net7.0/ref/exercise_02.dll
