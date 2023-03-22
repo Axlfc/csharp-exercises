@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/axel/Desktop/csharp-exercises/app/app.csproj": {}
+    "/home/axel/Desktop/csharp-exercises/helloWorldApp/app.csproj": {}
   },
   "projects": {
-    "/home/axel/Desktop/csharp-exercises/app/app.csproj": {
+    "/home/axel/Desktop/csharp-exercises/helloWorldApp/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/axel/Desktop/csharp-exercises/app/app.csproj",
+        "projectUniqueName": "/home/axel/Desktop/csharp-exercises/helloWorldApp/app.csproj",
         "projectName": "app",
-        "projectPath": "/home/axel/Desktop/csharp-exercises/app/app.csproj",
+        "projectPath": "/home/axel/Desktop/csharp-exercises/helloWorldApp/app.csproj",
         "packagesPath": "/home/axel/.nuget/packages/",
-        "outputPath": "/home/axel/Desktop/csharp-exercises/app/obj/",
+        "outputPath": "/home/axel/Desktop/csharp-exercises/helloWorldApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/axel/.nuget/NuGet/NuGet.Config"
