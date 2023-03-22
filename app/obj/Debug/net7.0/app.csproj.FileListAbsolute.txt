@@ -1,0 +1,15 @@
+C:\Users\AxelFC\source\repos\csharp-exercises\app\bin\Debug\net7.0\app.exe
+C:\Users\AxelFC\source\repos\csharp-exercises\app\bin\Debug\net7.0\app.deps.json
+C:\Users\AxelFC\source\repos\csharp-exercises\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\AxelFC\source\repos\csharp-exercises\app\bin\Debug\net7.0\app.dll
+C:\Users\AxelFC\source\repos\csharp-exercises\app\bin\Debug\net7.0\app.pdb
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.dll
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\refint\app.dll
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.pdb
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\AxelFC\source\repos\csharp-exercises\app\obj\Debug\net7.0\ref\app.dll
