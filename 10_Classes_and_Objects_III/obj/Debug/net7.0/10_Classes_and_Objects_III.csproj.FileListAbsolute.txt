@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/bin/Debug/net7.0/10_Classes_and_Objects_III
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/bin/Debug/net7.0/10_Classes_and_Objects_III.deps.json
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/bin/Debug/net7.0/10_Classes_and_Objects_III.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/bin/Debug/net7.0/10_Classes_and_Objects_III.dll
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/bin/Debug/net7.0/10_Classes_and_Objects_III.pdb
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.dll
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/refint/10_Classes_and_Objects_III.dll
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.pdb
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/10_Classes_and_Objects_III.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/10_Classes_and_Objects_III/obj/Debug/net7.0/ref/10_Classes_and_Objects_III.dll
