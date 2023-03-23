@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/bin/Debug/net7.0/06_Functions_and_Methods_I
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/bin/Debug/net7.0/06_Functions_and_Methods_I.deps.json
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/bin/Debug/net7.0/06_Functions_and_Methods_I.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/bin/Debug/net7.0/06_Functions_and_Methods_I.dll
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/bin/Debug/net7.0/06_Functions_and_Methods_I.pdb
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.dll
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/refint/06_Functions_and_Methods_I.dll
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.pdb
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/06_Functions_and_Methods_I.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/06_Functions_and_Methods_I/obj/Debug/net7.0/ref/06_Functions_and_Methods_I.dll
