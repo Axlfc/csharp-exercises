@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/bin/Debug/net7.0/05_Strings_and_Arrays
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/bin/Debug/net7.0/05_Strings_and_Arrays.deps.json
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/bin/Debug/net7.0/05_Strings_and_Arrays.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/bin/Debug/net7.0/05_Strings_and_Arrays.dll
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/bin/Debug/net7.0/05_Strings_and_Arrays.pdb
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.dll
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/refint/05_Strings_and_Arrays.dll
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.pdb
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/05_Strings_and_Arrays.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/05_Strings_and_Arrays/obj/Debug/net7.0/ref/05_Strings_and_Arrays.dll
