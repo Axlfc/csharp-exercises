@@ -62,14 +62,14 @@ task3.Start();
 
 
 // Recibir los tasks completados
-
+/*
 await task1;
 await task2;
 await task3;
-
+*/
 
 // Colectivamente
-// Task.WhenAll(task1, task2, task3); // Recibimos totas las tareas iniciadas cuando se completan
+await Task.WhenAll(task1, task2, task3); // Recibimos totas las tareas iniciadas cuando se completan
 crono2.Stop();
 Console.WriteLine($"Todo el programa ha durado: {crono2.Elapsed}");
 
