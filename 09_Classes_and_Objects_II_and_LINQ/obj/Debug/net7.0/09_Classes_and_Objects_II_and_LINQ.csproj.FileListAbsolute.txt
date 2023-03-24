@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/bin/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/bin/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.deps.json
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/bin/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/bin/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.dll
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/bin/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.pdb
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.dll
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/refint/09_Classes_and_Objects_II_and_LINQ.dll
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.pdb
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/09_Classes_and_Objects_II_and_LINQ.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/09_Classes_and_Objects_II_and_LINQ/obj/Debug/net7.0/ref/09_Classes_and_Objects_II_and_LINQ.dll

@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/07_Methods_II/bin/Debug/net7.0/07_Methods_II
+/home/axel/Desktop/csharp-exercises/07_Methods_II/bin/Debug/net7.0/07_Methods_II.deps.json
+/home/axel/Desktop/csharp-exercises/07_Methods_II/bin/Debug/net7.0/07_Methods_II.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/07_Methods_II/bin/Debug/net7.0/07_Methods_II.dll
+/home/axel/Desktop/csharp-exercises/07_Methods_II/bin/Debug/net7.0/07_Methods_II.pdb
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.dll
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/refint/07_Methods_II.dll
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.pdb
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/07_Methods_II.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/07_Methods_II/obj/Debug/net7.0/ref/07_Methods_II.dll

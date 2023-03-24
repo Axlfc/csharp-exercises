@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/bin/Debug/net7.0/13_Asynchronous_Programming
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/bin/Debug/net7.0/13_Asynchronous_Programming.deps.json
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/bin/Debug/net7.0/13_Asynchronous_Programming.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/bin/Debug/net7.0/13_Asynchronous_Programming.dll
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/bin/Debug/net7.0/13_Asynchronous_Programming.pdb
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.dll
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/refint/13_Asynchronous_Programming.dll
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.pdb
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/13_Asynchronous_Programming.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/13_Asynchronous_Programming/obj/Debug/net7.0/ref/13_Asynchronous_Programming.dll

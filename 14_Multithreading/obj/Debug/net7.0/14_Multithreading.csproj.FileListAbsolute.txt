@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/14_Multithreading/bin/Debug/net7.0/14_Multithreading
+/home/axel/Desktop/csharp-exercises/14_Multithreading/bin/Debug/net7.0/14_Multithreading.deps.json
+/home/axel/Desktop/csharp-exercises/14_Multithreading/bin/Debug/net7.0/14_Multithreading.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/14_Multithreading/bin/Debug/net7.0/14_Multithreading.dll
+/home/axel/Desktop/csharp-exercises/14_Multithreading/bin/Debug/net7.0/14_Multithreading.pdb
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.dll
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/refint/14_Multithreading.dll
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.pdb
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/14_Multithreading.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/14_Multithreading/obj/Debug/net7.0/ref/14_Multithreading.dll
