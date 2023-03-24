@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/bin/Debug/net7.0/20_Sort_and_complexity
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/bin/Debug/net7.0/20_Sort_and_complexity.deps.json
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/bin/Debug/net7.0/20_Sort_and_complexity.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/bin/Debug/net7.0/20_Sort_and_complexity.dll
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/bin/Debug/net7.0/20_Sort_and_complexity.pdb
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.dll
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/refint/20_Sort_and_complexity.dll
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.pdb
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/20_Sort_and_complexity.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/20_Sort_and_complexity/obj/Debug/net7.0/ref/20_Sort_and_complexity.dll

@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/bin/Debug/net7.0/15_Use_of_Files
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/bin/Debug/net7.0/15_Use_of_Files.deps.json
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/bin/Debug/net7.0/15_Use_of_Files.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/bin/Debug/net7.0/15_Use_of_Files.dll
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/bin/Debug/net7.0/15_Use_of_Files.pdb
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.dll
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/refint/15_Use_of_Files.dll
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.pdb
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/15_Use_of_Files.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/15_Use_of_Files/obj/Debug/net7.0/ref/15_Use_of_Files.dll

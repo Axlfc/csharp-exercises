@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/bin/Debug/net7.0/21_Delegates_Indexers_and_Iterators
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/bin/Debug/net7.0/21_Delegates_Indexers_and_Iterators.deps.json
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/bin/Debug/net7.0/21_Delegates_Indexers_and_Iterators.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/bin/Debug/net7.0/21_Delegates_Indexers_and_Iterators.dll
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/bin/Debug/net7.0/21_Delegates_Indexers_and_Iterators.pdb
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.dll
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/refint/21_Delegates_Indexers_and_Iterators.dll
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.pdb
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/21_Delegates_Indexers_and_Iterators.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/21_Delegates_Indexers_and_Iterators/obj/Debug/net7.0/ref/21_Delegates_Indexers_and_Iterators.dll

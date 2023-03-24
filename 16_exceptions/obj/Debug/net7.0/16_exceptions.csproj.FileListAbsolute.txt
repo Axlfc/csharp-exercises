@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/16_exceptions/bin/Debug/net7.0/16_exceptions
+/home/axel/Desktop/csharp-exercises/16_exceptions/bin/Debug/net7.0/16_exceptions.deps.json
+/home/axel/Desktop/csharp-exercises/16_exceptions/bin/Debug/net7.0/16_exceptions.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/16_exceptions/bin/Debug/net7.0/16_exceptions.dll
+/home/axel/Desktop/csharp-exercises/16_exceptions/bin/Debug/net7.0/16_exceptions.pdb
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.dll
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/refint/16_exceptions.dll
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.pdb
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/16_exceptions.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/16_exceptions/obj/Debug/net7.0/ref/16_exceptions.dll

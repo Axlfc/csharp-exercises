@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/18_Events/bin/Debug/net7.0/18_Events
+/home/axel/Desktop/csharp-exercises/18_Events/bin/Debug/net7.0/18_Events.deps.json
+/home/axel/Desktop/csharp-exercises/18_Events/bin/Debug/net7.0/18_Events.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/18_Events/bin/Debug/net7.0/18_Events.dll
+/home/axel/Desktop/csharp-exercises/18_Events/bin/Debug/net7.0/18_Events.pdb
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.dll
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/refint/18_Events.dll
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.pdb
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/18_Events.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/18_Events/obj/Debug/net7.0/ref/18_Events.dll
