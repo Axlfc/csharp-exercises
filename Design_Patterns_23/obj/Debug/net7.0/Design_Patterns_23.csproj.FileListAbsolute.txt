@@ -1,0 +1,15 @@
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.csproj.AssemblyReference.cache
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.AssemblyInfoInputs.cache
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.AssemblyInfo.cs
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.csproj.CoreCompileInputs.cache
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/bin/Debug/net7.0/Design_Patterns_23
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/bin/Debug/net7.0/Design_Patterns_23.deps.json
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/bin/Debug/net7.0/Design_Patterns_23.runtimeconfig.json
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/bin/Debug/net7.0/Design_Patterns_23.dll
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/bin/Debug/net7.0/Design_Patterns_23.pdb
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.dll
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/refint/Design_Patterns_23.dll
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.pdb
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/Design_Patterns_23.genruntimeconfig.cache
+/home/axel/Desktop/csharp-exercises/Design_Patterns_23/obj/Debug/net7.0/ref/Design_Patterns_23.dll
